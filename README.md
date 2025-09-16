@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanchiswell
 - 👀 I’m an ag/environment researcher
-- 🌱 I’m currently learning R in 3 months
+- 🌱 R in 3 months graduate
 - 😄 Pronouns: she/her
 
 <!---
